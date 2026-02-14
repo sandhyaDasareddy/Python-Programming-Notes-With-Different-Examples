@@ -19,7 +19,7 @@ print("Raw string output:", raw_name)
 '''
 Output:
 ------
-Number: 70
+Number: 70  
 Binary   : 1000110
 Octal    : 106
 Hexadecimal: 46
